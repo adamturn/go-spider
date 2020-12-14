@@ -13,7 +13,7 @@ import (
 
 func main() {
     // define a url string
-    url := "example.site.com"
+    url := "https://example.site.com"
     // Crawl handles standard errors and
     // returns response body as a string
     page := spider.Crawl(url)
