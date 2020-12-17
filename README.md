@@ -1,5 +1,5 @@
 # Golang HTTP Spider
-For basic web crawling. Work in progress
+For basic web crawling. Work in progress.
 
 ## Quickstart
 ```go
